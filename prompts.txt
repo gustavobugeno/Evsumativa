@@ -1,10 +1,39 @@
-1.Necesito construir una primera version para lanzar al mercado un notebook,
- definir una estructura basica.
+Etapa 1
 
-2.Necesito actualizar el sitio del notebook para que se vea más moderno: mejorar el diseño visual.
+Prompt: “Necesito construir una primera versión para lanzar al mercado un notebook, definir una estructura básica.”
 
-3.Necesito actualizar el sitio para que explique mejor el producto mediante nuevas secciones de contenido, dame ejemplos.
+Propósito: Crear la estructura inicial del sitio web con secciones mínimas.
 
-4.Necesito actualizar el style para que se adapte a los celulares.
+Evaluación: Útil → permitió tener la base sobre la cual se construyeron las siguientes mejoras.
 
-5. Necesito incorporar una ficha comparativa de producto al sitio, con características organizadas en tabla, incluyendo al menos 3 atributos técnicos relevantes.
+Etapa 2
+
+Prompt: “Necesito actualizar el sitio del notebook para que se vea más moderno: mejorar el diseño visual.”
+
+Propósito: Mejorar la apariencia visual con estilos modernos.
+
+Evaluación: Útil → el sitio ganó atractivo y profesionalismo.
+
+Etapa 3
+
+Prompt: “Necesito actualizar el sitio para que explique mejor el producto mediante nuevas secciones de contenido, dame ejemplos.”
+
+Propósito: Incorporar secciones adicionales, para enriquecer la información.
+
+Evaluación: Útil → el contenido se volvió más completo y convincente.
+
+Etapa 4
+
+Prompt: “Necesito actualizar el style para que se adapte a los celulares.”
+
+Propósito: Adaptar el diseño con media queries para asegurar legibilidad y buena distribución en pantallas pequeñas.
+
+Evaluación: Útil → el sitio ahora es responsive y se visualiza correctamente en móviles.
+
+Etapa 5
+
+Prompt: “Necesito incorporar una ficha comparativa de producto al sitio, con características organizadas en tabla"
+
+Propósito: Añadir una ficha técnica comparativa entre el Progamer90 y un notebook gamer estándar, destacando atributos clave.
+
+Evaluación: Útil → refuerza el valor diferencial del producto y aporta claridad final.
