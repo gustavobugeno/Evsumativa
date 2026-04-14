@@ -1,0 +1,4 @@
+1.Necesito construir una primera version para lanzar al mercado un notebook,
+ definir una estructura basica.
+
+2.
