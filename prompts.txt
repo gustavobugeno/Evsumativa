@@ -1,4 +1,10 @@
 1.Necesito construir una primera version para lanzar al mercado un notebook,
  definir una estructura basica.
 
-2.
+2.Necesito actualizar el sitio del notebook para que se vea más moderno: mejorar el diseño visual.
+
+3.Necesito actualizar el sitio para que explique mejor el producto mediante nuevas secciones de contenido, dame ejemplos.
+
+4.Necesito actualizar el style para que se adapte a los celulares.
+
+5. Necesito incorporar una ficha comparativa de producto al sitio, con características organizadas en tabla, incluyendo al menos 3 atributos técnicos relevantes.
