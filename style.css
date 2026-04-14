@@ -121,3 +121,38 @@ body {
     }
   }
   
+
+@media (max-width: 768px) {
+    header.hero {
+      padding: 50px 15px;
+    }
+  
+    header.hero h1 {
+      font-size: 2em;
+    }
+  
+    header.hero p {
+      font-size: 1em;
+    }
+  
+    .card {
+      margin: 20px;
+      padding: 20px;
+    }
+  
+    .card h2 {
+      font-size: 1.5em;
+    }
+  
+    .card p, .card ul li {
+      font-size: 1em;
+    }
+  
+
+    .card table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  }
+  
